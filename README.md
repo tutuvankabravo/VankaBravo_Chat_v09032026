@@ -127,3 +127,17 @@ Windows (exe-файл собран под Windows)
 
 ⚠️ Примечание
 Программа не включает в себя файлы моделей. Вам нужно скачать GGUF модель отдельно (например, с Hugging Face) и указать путь к ней при загрузке.
+
+![12 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/e8a46b58-e271-4ec9-87f3-ca4d558b305c)
+![11 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/5f6f4fc1-d5a1-4dc2-8cc7-4a47627cb659)
+![10 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/1a7ab50e-5c2f-4ccd-96db-934a43f25f69)
+![9 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/7dcfadca-e58e-49b3-9344-00b9c75bfe96)
+![8 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/1b39c412-9f64-410a-afce-9223f872d952)
+![7 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/b7636caa-3b65-4363-a7d3-3fb540c20784)
+![6 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/612809db-d4fa-406d-8cbd-cf7ab1ccaa47)
+![5 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/03214003-83db-400e-a028-3298f853b42d)
+![4 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/7c1abfc9-c7bc-40dd-84c3-a2501a90dee9)
+![3 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/51d41fbc-238f-4b32-bb4d-285f0fe271d2)
+![2 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/63290114-2ecf-4f89-8f06-38ca53ef4cf0)
+![1 Photo VankaBravo_Chat_v09032026](https://github.com/user-attachments/assets/7847ebec-3665-416c-9739-187d0d0382ca)
+
