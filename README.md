@@ -7,7 +7,6 @@
 
 ### 🤖 Модель
 - **[Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct)** — модель от **Alibaba Cloud**
-- **[Qwen2.5-Coder-7B-Instruct-Q4_K_M-GGUF](https://huggingface.co/stefancosma/Qwen2.5-Coder-7B-Instruct-Q4_K_M-GGUF)** — квантизация от **Stefan Cosma**
 
 ### 🦙 Движок
 - **[llama.cpp](https://github.com/ggerganov/llama.cpp)** — библиотека для запуска GGUF моделей от **Georgi Gerganov** и соавторов
