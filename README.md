@@ -15,6 +15,10 @@
 ### 💻 Оболочка чата
 - **[VankaBravo Chat](https://github.com/tutuvankabravo/VankaBravo_Chat_v09032026)** — графический интерфейс от **Vanka Bravo** (tutuvankabravo@gmail.com)
 
+## 📥 Скачать программу
+
+[**⬇️ Скачать VankaBravo Chat v09.03.2026 (294 МБ)**](https://github.com/tutuvankabravo/VankaBravo_Chat_v09032026/releases/download/v1.0.0/VankaBravo_Chat_v09032026.exe)
+
 ---
 
 ### 📧 Контакты
