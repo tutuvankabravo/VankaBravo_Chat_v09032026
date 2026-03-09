@@ -17,7 +17,7 @@
 
 ## 📥 Скачать программу
 
-[**⬇️ Скачать VankaBravo Chat v09.03.2026 (294 МБ)**](https://github.com/tutuvankabravo/VankaBravo_Chat_v09032026/releases/download/v1.0.0/VankaBravo_Chat_v09032026.exe)
+[**⬇️ Скачать VankaBravo Chat v09.03.2026 (294 МБ)**](https://github.com/tutuvankabravo/VankaBravo_Chat_v09032026/releases/tag/v09.03.2026)
 
 ---
 
