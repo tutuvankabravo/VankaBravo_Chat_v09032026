@@ -1,5 +1,31 @@
 # VankaBravo_Chat_v09032026
 Легковесный русский интерфейс чата для модели Qwen2.5-Coder-7B-Instruct GGUF с бэкендом llama.cpp. В комплект входит исполняемый файл для Windows.
+
+## 👨‍💻 Авторы и благодарности
+
+Данный проект использует следующие компоненты с открытым исходным кодом:
+
+### 🤖 Модель
+- **[Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct)** — модель от **Alibaba Cloud**
+- **[Qwen2.5-Coder-7B-Instruct-Q4_K_M-GGUF](https://huggingface.co/stefancosma/Qwen2.5-Coder-7B-Instruct-Q4_K_M-GGUF)** — квантизация от **Stefan Cosma**
+
+### 🦙 Движок
+- **[llama.cpp](https://github.com/ggerganov/llama.cpp)** — библиотека для запуска GGUF моделей от **Georgi Gerganov** и соавторов
+
+### 💻 Оболочка чата
+- **[VankaBravo Chat](https://github.com/tutuvankabravo/VankaBravo_Chat_v09032026)** — графический интерфейс от **Vanka Bravo** (tutuvankabravo@gmail.com)
+
+---
+
+### 📧 Контакты
+- По вопросам работы программы: [tutuvankabravo@gmail.com](mailto:tutuvankabravo@gmail.com)
+
+### 📜 Лицензии
+Все компоненты используются в соответствии с их лицензиями:
+- MIT License (llama.cpp, оболочка чата)
+- Apache License 2.0 (модель Qwen)
+
+
 VankaBravo Chat v09.03.2026
 📋 Краткая инструкция
 🚀 Запуск программы
